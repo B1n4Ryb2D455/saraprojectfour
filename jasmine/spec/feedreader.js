@@ -48,7 +48,6 @@ $(function () {
         });
     });
 
-    /* TODO: Write a new test suite named "Initial Entries" */
     describe('Internal Entries', function () {
         beforeEach(function (done) {
             loadFeed(0, done);
@@ -61,7 +60,6 @@ $(function () {
 
     });
 
-    /* TODO: Write a new test suite named "New Feed Selection" */
     describe('New Feed Selection', function () {
 
         let firstLoad;

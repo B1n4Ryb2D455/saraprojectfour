@@ -1,4 +1,11 @@
 {
     "eslint.enable": false,
-    "tslint.enable": false
+    "tslint.enable": false,
+    "editor.wordWrap": "on",
+    "editor.quickSuggestions": {
+        "other": true,
+        "comments": true,
+        "strings": true
+    },
+    "tslint.jsEnable": true
 }

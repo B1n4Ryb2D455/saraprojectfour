@@ -19,9 +19,7 @@ The hypothetical scenario is that I took over for another developer after she le
 - Ensure the new feed selection actually changes content via the LoadFeed function
 
 ## How I completed the project:
-- I completed the project with JavaScript, CSS, and HTML, Jasmine
-
-
+- I completed the project with JavaScript, CSS, HTML, and Jasmine
 - Wrote the test suites for 'RSS Feeds' and verified passing
 - Wrote the test suites for 'The Menu' and verified passing
 - Wrote the test suites for 'Internal Entries' and verified passing
